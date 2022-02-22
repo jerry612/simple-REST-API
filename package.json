@@ -1,0 +1,16 @@
+{
+  "name": "crime_dataset",
+  "version": "1.0.0",
+  "description": "Coding Assessment",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jerry",
+  "license": "ISC",
+  "dependencies": {
+    "date-fns": "^2.28.0",
+    "express": "^4.17.1",
+    "sqlite3": "^4.1.1"
+  }
+}
