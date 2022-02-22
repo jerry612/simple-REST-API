@@ -6,7 +6,7 @@ Run `npm i` to install all project dependencies
 
 ## Usage
 1. Run `node server.js` to start the server
-2. Try a GET request to one of the example endpoints:  [http://localhost:3000/crimes/7-day-moving-average](http://localhost:3000/crimes/7-day-moving-average).  This should return a JSON array of data representing the dates with their 7 day moving average  of number of crimes committed during that period across the entire city.
+2. Try a GET request to one of the example endpoints:  [http://localhost:3000/crimes/7-day-moving-average](http://localhost:3000/crimes/7-day-moving-average).  This should return a JSON array of data representing 7 day moving average of number of crimes committed during that period across the entire city.
 
 ## Query Example
 
